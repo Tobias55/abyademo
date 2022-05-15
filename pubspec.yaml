@@ -79,5 +79,7 @@ flutter:
   fonts:
     - family: OleoScript
       fonts:
-        - asset: assets\fonts\Oleo_Script\OleoScript-Regular.ttf
+        - asset: assets/fonts/Oleo_Script\OleoScript-Regular.ttf
+        - asset: assets/fonts/Oleo_Script\OleoScript-Bold.ttf
+          weight: 700
           

@@ -13,7 +13,7 @@ class twitter extends StatelessWidget {
         width: 22,
       ),
       radius: 21,
-      backgroundColor: Color.fromARGB(164, 64, 195, 255),
+      backgroundColor: const Color.fromARGB(164, 64, 195, 255),
     );
   }
 }
@@ -29,7 +29,7 @@ class facebook extends StatelessWidget {
         width: 22,
       ),
       radius: 21,
-      backgroundColor: Color.fromARGB(164, 68, 137, 255),
+      backgroundColor: const Color.fromARGB(164, 68, 137, 255),
     );
   }
 }
@@ -45,7 +45,7 @@ class instagram extends StatelessWidget {
         width: 22,
       ),
       radius: 21,
-      backgroundColor: Color.fromARGB(164, 255, 64, 128),
+      backgroundColor: const Color.fromARGB(164, 255, 64, 128),
     );
   }
 }
